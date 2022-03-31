@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fco.alvarez@icloud.com
+	name = exit
